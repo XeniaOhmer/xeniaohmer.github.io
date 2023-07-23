@@ -16,7 +16,7 @@ author_profile: true
  - Ohmer, X., Marino, M., Franke, M., and König, P. (2022). Mutual influence between language and perception in multi-agent communication games. _PLOS Computational Biology, 18_(10), e1010658. [(Paper)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010658)
 
 
- - Ohmer, X., Duda, M., and Bruni, E. (2022). Emergence of hierarchical reference systems in multi-agent communication. _Proceedings of the 29th International Conference on Computational Linguistics ({COLING})_, 5689-5706. [(Paper)]
+ - Ohmer, X., Duda, M., and Bruni, E. (2022). Emergence of hierarchical reference systems in multi-agent communication. _Proceedings of the 29th International Conference on Computational Linguistics ({COLING})_, 5689-5706. [(Paper)](https://aclanthology.org/2022.coling-1.501/)
 
 
  - Ohmer, X., Franke, M. and König, P. (2022). Mutual Exclusivity in Pragmatic Agents. _Cognitive Science, 46_, e13069. [(Paper)](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13069)
