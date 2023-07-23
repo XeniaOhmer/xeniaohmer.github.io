@@ -14,7 +14,7 @@ Currently, I'm part of the Natural Language Processing Group, where I am fortuna
 
 Research interests
 -------
-My research revolves around Natural Language Processing and Computational Linguistics, with a focus on the following areas:
+My research revolves around Natural Language Processing, Computational Linguistics, and Cognitive Science, with a focus on the following areas:
 
 - Evaluation and interpretation of large language models 
 - Language emergence and multi-agent communication
