@@ -33,7 +33,7 @@ While I continue to research the topics of my Ph.D., I'm also deeply fascinated 
 
 News
 -------
-- 18.07.23 - Very proud to be part of the [#that_is_good_data](https://github.com/huggingface/that_is_good_data) intiative. You can report any mistakes you find in current NLP benchmarks, together with ideas how to fix them. 
-- 23.05.23 - New [preprint](https://arxiv.org/abs/2305.11662) with [Dieuwke Hupkes](https://dieuwkehupkes.nl/) and [Elia Bruni](https://eliabruni.github.io/): We propose to evaluate Large Language Models on different _forms_ of the same task to test whether they have a "true" task understanding. Turns out, ChatGPT does not so well... 
+- 18.07.23 - Very proud to be part of the [#that_is_good_data](https://github.com/huggingface/that_is_good_data) intiative. You can report any mistakes you find in current NLP benchmarks, together with ideas on how to fix them. 
+- 23.05.23 - New [preprint](https://arxiv.org/abs/2305.11662) with [Dieuwke Hupkes](https://dieuwkehupkes.nl/) and [Elia Bruni](https://eliabruni.github.io/): We propose to evaluate large language models on different _forms_ (versions) of the same task to test whether these models have a "true" task understanding. Turns out, ChatGPT does not so well... 
 - 13.04.23 - I successfully defended my dissertation! A link to the thesis will follow as soon as it is officially published (which requires overcoming various hurdles posed by German bureaucracy).
-- 31.03.23 - New [preprint](https://psyarxiv.com/mqzgr/) with [Christine Cuskley](https://ccuskley.github.io/):  We reduce different traditions for modelling language evolution through dyadic agent interactions to the same skeletal dynamics, and highlight how variations on these skeletal dynamics can lead to convergent but also complementary results. 
+- 31.03.23 - New [preprint](https://psyarxiv.com/mqzgr/) with [Christine Cuskley](https://ccuskley.github.io/):  We reduce different traditions for modelling language evolution through dyadic agent interactions to the same skeletal dynamics, and highlight how variations on these skeletal dynamics can lead to convergent but also complementary insights. 
