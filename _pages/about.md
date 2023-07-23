@@ -24,8 +24,8 @@ Short bio
 ------
 I pursued my Bachelor's in Cognitive Science at both the University of Osnabrück and the University of Zürich (during an ERASMUS program). 
 For my Master's, I studied Mathematics in Medicine and Life Sciences at the University of Lübeck.
-After a brief stint in Computational Molecular Biology research in Berlin, I decided to pursue my Ph.D. at the University of Osnabrück.
-My Ph.D. was conducted in the Research Training Group Computational Cognition, under the joint supervision of [Peter König](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology/pk.html), Professor for "Neurobiopsychology," and [Michael Franke](https://michael-franke.github.io/heimseite/), who now serves as a Professor at the Department of Linguistics at the University of Tübingen. 
+After a brief stint in Computational Molecular Biology research in Berlin, I went back to Osnabrück to do a Ph.D. in the Research Training Group Computational Cognition.
+My Ph.D. was jointly supervised by [Peter König](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology/pk.html), Professor for "Neurobiopsychology" and [Michael Franke](https://michael-franke.github.io/heimseite/), who now serves as a Professor at the Department of Linguistics at the University of Tübingen. 
 During my Ph.D., I worked on various projects related to neural network models of word learning, multi-agent communication, language emergence, and pragmatics. 
 Recently, I started my Postdoc at the Natural Language Processing Group, University of Osnabrück, where I am supervised by [Elia Bruni](https://eliabruni.github.io/). 
 While I continue to research the topics of my Ph.D., I'm also deeply fascinated by the latest advancements in NLP, leading me to explore projects involving the evaluation and interpretation of large language models.
