@@ -33,9 +33,7 @@ While I continue to research the topics of my Ph.D., I'm also deeply fascinated 
 
 News
 -------
+- 30.01.24 - We have updated our [preprint](https://arxiv.org/abs/2311.09048), which introduces GRASP, a new benchmark for language grounding and intuitive physics in LLMs, with exciting results for various multimodal LLMs. 
 - 05.10.23 - New [preprint](https://arxiv.org/abs/2309.12263) with Leon Ackermann: We look at the relationship between skill neurons and robustness in prompt tuning.
 - 04.08.23 - My [Ph.D. thesis](https://doi.org/10.48693/379) is finally available online.
-- 18.07.23 - Very proud to be part of the [#that_is_good_data](https://github.com/huggingface/that_is_good_data) intiative. You can report any mistakes you find in current NLP benchmarks, together with ideas on how to fix them. 
-- 23.05.23 - New [preprint](https://arxiv.org/abs/2305.11662) with [Dieuwke Hupkes](https://dieuwkehupkes.nl/) and [Elia Bruni](https://eliabruni.github.io/): We propose to evaluate large language models on different _forms_ (versions) of the same task to test whether these models have a "true" task understanding. Turns out, ChatGPT does not so well... 
-- 13.04.23 - I successfully defended my dissertation!
-- 31.03.23 - New [preprint](https://psyarxiv.com/mqzgr/) with [Christine Cuskley](https://ccuskley.github.io/):  We reduce different traditions for modelling language evolution through dyadic agent interactions to the same skeletal dynamics, and highlight how variations on these skeletal dynamics can lead to convergent but also complementary insights. 
+- 23.05.23 - New [preprint](https://arxiv.org/abs/2305.11662) with [Dieuwke Hupkes](https://dieuwkehupkes.nl/) and [Elia Bruni](https://eliabruni.github.io/): We propose to evaluate large language models on different _forms_ (versions) of the same task to test whether these models have a "true" task understanding. Turns out, ChatGPT does not do so well... 
