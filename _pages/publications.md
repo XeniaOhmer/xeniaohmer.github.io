@@ -7,6 +7,9 @@ author_profile: true
 
 (sorted by date, most recent first)
 
+- Jassim, S., Holubar, M., Richter, A., Wolff, C., Ohmer, X., and Bruni, E. (2023). GRASP: A novel benchmark for evaluating language GRounding And Situated Physics understanding in multimodal language models. _ArXiv Preprint, arXiv:2311.09048_ [(Paper)](https://arxiv.org/abs/2311.09048)
+
+
  - Ohmer, X., Bruni, E., and Hupkes, D. (2023). Separating form and meaning: Using self-consistency to quantify task understanding across multiple senses. _ArXiv Preprint, arXiv:2305.11662_ [(Paper)](https://arxiv.org/abs/2305.11662)
 
 
