@@ -33,7 +33,7 @@ While I continue to research the topics of my Ph.D., I'm also deeply fascinated 
 
 News
 -------
-- 30.01.24 - We have updated our [preprint](https://arxiv.org/abs/2311.09048), which introduces GRASP, a new benchmark for language grounding and intuitive physics in LLMs, with exciting results for various multimodal LLMs. 
-- 05.10.23 - New [preprint](https://arxiv.org/abs/2309.12263) with Leon Ackermann: We look at the relationship between skill neurons and robustness in prompt tuning.
+- 20.02.24 - Two papers accepted at LREC-COLING! [One](https://openreview.net/forum?id=aKSiwNGqx1) with Leon Ackermann investigating the relationship between skill neurons and robustness in prompt tuning and one with Kristina Kobrock, Elia Bruni, and Nicole Gotzner on the role of context in emergent communication. 
+- 30.01.24 - We have updated our [preprint](https://arxiv.org/abs/2311.09048), which introduces GRASP, a new benchmark for language grounding and intuitive physics in LLMs, with exciting results for various multimodal LLMs.
 - 04.08.23 - My [Ph.D. thesis](https://doi.org/10.48693/379) is finally available online.
 - 23.05.23 - New [preprint](https://arxiv.org/abs/2305.11662) with [Dieuwke Hupkes](https://dieuwkehupkes.nl/) and [Elia Bruni](https://eliabruni.github.io/): We propose to evaluate large language models on different _forms_ (versions) of the same task to test whether these models have a "true" task understanding. Turns out, ChatGPT does not do so well... 
